@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Menager;Matthieu;;;
+FN:Matthieu Menager
+ORG:
+ADR;TYPE=WORK:Angers, France
+TITLE:Electronics design engineer in training
+TEL;TYPE=CELL:+33767070576
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:menagermatthieu68@gmail.com
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=GitHub:https://github.com/watt2d
+URL;TYPE=LinkedIn:https://linkedin.com/in/matthieu-menager-83180724a
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Apprentice electronic engineer with a strong foundation in electronics and computer scienceSpecialize in designing advanced electronic systems and embedded solutions, with a particular interest in motorsportExperience in creating electrical and electronic diagramsExpertise in PCB design (power/RF), microcontroller programming, and 3D modelingDedicated to delivering innovative, high-quality engineering solutions tailored to your project needs
+UID:EnBizCard-100088448
+END:VCARD
